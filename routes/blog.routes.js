@@ -9,7 +9,7 @@ const {
   eliminarPublicacion,
   obtenerPublicaciones,
   obtenerPublicacion,
-} = require("../controllers/blog.controller");
+} = require("../controllers/blog.controllers");
 
 // ==================================================
 //         Rutas para renderizar vistas

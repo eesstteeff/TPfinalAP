@@ -9,30 +9,6 @@ Este es el proyecto final del curso "Tramo 2 - Lenguajes de programación 1 - EP
 
 ![Logo](https://qualitapps.com/wp-content/uploads/2023/02/102.png)
 
-## ⚠ Dependencias ⚠
-
-Asegúrate de haber instalado las siguientes dependencias antes de ejecutar el proyecto:
-
-- [Node.js](https://nodejs.org/): Plataforma de tiempo de ejecución de JavaScript.
-- [npm](https://www.npmjs.com/): Gestor de paquetes de Node.js.
-
-Ejecuta el siguiente comando para instalar las dependencias del proyecto:
-
-```bash
-  npm install
-```
-
-Las dependencias incluidas en el proyecto son las siguientes:
-
-- **express**: Framework web de Node.js.
-- **body-parser**: Middleware para analizar las solicitudes HTTP entrantes.
-- **cors**: Middleware para habilitar el acceso a recursos en diferentes dominios (CORS).
-- **morgan**: Middleware para registrar solicitudes HTTP.
-- **sequelize**: ORM (Object-Relational Mapping) para interactuar con la base de datos.
-- **mysql2**: Controlador MySQL para Sequelize.
-- **sequelize-cli** (opcional): Herramienta de línea de comandos de Sequelize para crear migraciones y seeders.
-- **dotenv** (opcional): Para cargar variables de entorno desde un archivo `.env`.
-- **nodemon** (opcional): Herramienta para reiniciar automáticamente el servidor en desarrollo cuando se hacen cambios en el código.
 
 ## ⚙ Configuración ⚙
 
